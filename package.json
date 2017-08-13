@@ -1,0 +1,23 @@
+{
+  "name": "min-redux",
+  "version": "1.0.0",
+  "description": "mini redux & study how to write a redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maczyt/min-redux.git"
+  },
+  "keywords": [
+    "redux",
+    "react"
+  ],
+  "author": "maczyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maczyt/min-redux/issues"
+  },
+  "homepage": "https://github.com/maczyt/min-redux#readme"
+}
