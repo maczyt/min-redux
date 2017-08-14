@@ -1,9 +1,11 @@
 # simple-redux
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/maczyt/min-redux/master/LICENSE)
+[![npm](https://img.shields.io/npm/dw/localeval.svg)](https://github.com/maczyt/min-redux)
 [![GitHub stars](https://img.shields.io/github/stars/maczyt/min-redux.svg)](https://github.com/maczyt/min-redux/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/maczyt/min-redux.svg)](https://github.com/maczyt/min-redux/issues)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/maczyt/min-redux/master/LICENSE)
 
+> You will get how to write a redux-like by yourself
 
 ``` js
 

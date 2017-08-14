@@ -1,10 +1,10 @@
 {
   "name": "min-redux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mini redux & study how to write a redux",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/maczyt/min-redux/issues"
   },
-  "homepage": "https://github.com/maczyt/min-redux#readme"
+  "homepage": "https://github.com/maczyt/min-redux#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
 }
