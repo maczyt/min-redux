@@ -52,6 +52,16 @@ store.dispatch({ type: 'DECREMENT' })
 
 - `bindActionCreators`
 - `applyMiddleware`
-- `actionCreator`
+- ~~`actionCreator`~~
+
+## 说明
+
+1. `actionCreator`
+
+``` js
+export const increment = () => ({
+  type: 'INCREMENT'
+})
+```
 
 
